@@ -1,0 +1,14 @@
+canvas{
+  border-style: ridge;
+  border-width: 10px;
+  background-color: black;
+}
+h1{
+  text-align: center;
+}
+#main{
+  text-align: center;
+}
+body{
+  background: lightgrey;
+}
